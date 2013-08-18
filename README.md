@@ -8,8 +8,10 @@ Installation
 1. Install Pathogen from Tim Pope. This vim plugin will make sure that all bundles in directory ~/.vim/bundle will be loaded automatically to Vim runtime.
 2. Add this at the beginning of your ~/.vimrc: execute pathogen#infect()
 3. Clone this repository and copy bundles that you like and put them in the ~/.vim/bundle, e.g. vim-snipmate.
+4. See .vimrc in this repository as an example (also see vim-sensible)
 
 Disclaimer 
 ==========
-The bundles in this repository are not made by me, they are available publicly.
+The bundles in this repository are NOT made by me, they are available publicly.
+They are here only for my private references. All credit goes to the original developers.
 
